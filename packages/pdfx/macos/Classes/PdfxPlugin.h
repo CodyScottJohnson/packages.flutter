@@ -1,1 +1,5 @@
-../../ios/Classes/PdfxPlugin.h
+#import <FlutterMacOS/FlutterMacOS.h>
+
+
+@interface PdfxPlugin : NSObject <FlutterPlugin>
+@end
